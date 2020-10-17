@@ -31,6 +31,9 @@
 
 [Deploy Guide](https://github.com/ion-cell/ionix#how-to-deploy)
 
+## How To Deploy 
+
+[Logo](https://heroku.com/deploy?template=https://github.com/ion-cell/ionix)
 
 ## Disclaimer
 
@@ -54,8 +57,8 @@
     Yes! you heard it right.
 /**
 
-## How To Deploy 
 
-<p align="center">
-<a href = "https://heroku.com/deploy?template=https://github.com/ion-cell/ionix/tree/alpha"><img src="https://telegra.ph/file/57c4edb389224c9cf9996.png" alt="Press to Takeoff" width="490px"></a></p>
-<br>
+
+
+
+
