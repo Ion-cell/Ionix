@@ -53,3 +53,6 @@
     We will be rolling on the floor laughing at you.
     Yes! you heard it right.
 /**
+<p align="center">
+<a href = "https://heroku.com/deploy?template=https://github.com/ion-cell/ionix/tree/alpha"><img src="https://telegra.ph/file/57c4edb389224c9cf9996.png" alt="Press to Takeoff" width="490px"></a></p>
+<br>
