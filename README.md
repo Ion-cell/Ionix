@@ -29,7 +29,7 @@
 
 ## click the below photo and deploy
 
-[![Deploy](https://telegra.ph/file/18cea3a9a7d9b3261dc1a.jpg)](https://heroku.com/deploy)
+[![Deploy](https://telegra.ph/file/57c4edb389224c9cf9996.png)](https://heroku.com/deploy)
 
 
 
@@ -54,10 +54,16 @@
     for getting your account deleted?
     We will be rolling on the floor laughing at you.
     Yes! you heard it right.
-/**
 
 
 
+## Credit 
+(Owner) @paranormal_s
+(Legend) @LegendaryKeys
+(Bhagwan) @devil0707
+(phoenix) @ultra_legend_guy
+(Jass Manak) @loUis_xD
+(Typhon) @cyb3rm4f1a
 
 
 
