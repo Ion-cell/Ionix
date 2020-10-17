@@ -31,7 +31,14 @@
 
 [![Deploy](https://telegra.ph/file/57c4edb389224c9cf9996.png)](https://heroku.com/deploy)
 
-
+## Credit
+Credit 
+(Owner) @paranormal_s
+(Legend) @LegendaryKeys
+(Bhagwan) @devil0707
+(phoenix) @ultra_legend_guy
+(Jass Manak) @loUis_xD
+(Typhon) @cyb3rm4f1a
 
 
 ## Disclaimer
@@ -57,13 +64,7 @@
 
 
 
-## Credit 
-(Owner) @paranormal_s
-(Legend) @LegendaryKeys
-(Bhagwan) @devil0707
-(phoenix) @ultra_legend_guy
-(Jass Manak) @loUis_xD
-(Typhon) @cyb3rm4f1a
+
 
 
 
