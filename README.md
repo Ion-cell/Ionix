@@ -27,13 +27,12 @@
 
 <br>
 
-## How to Use ??
+## click the below photo and deploy
 
-[Deploy Guide](https://github.com/ion-cell/ionix#how-to-deploy)
+[![Deploy](https://telegra.ph/file/18cea3a9a7d9b3261dc1a.jpg)](https://heroku.com/deploy)
 
-## How To Deploy 
 
-[Logo](https://telegra.ph/file/57c4edb389224c9cf9996.png=https://heroku.com/deploy?template=https://github.com/ion-cell/ionix)
+
 
 ## Disclaimer
 
