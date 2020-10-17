@@ -12,13 +12,13 @@
 <br>
 <br>
 
+![Repo Size](https://img.shields.io/github/repo-size/ion-cell/ionix)
+[![Sourcery](https://img.shields.io/badge/Sourcery-enabled-brightgreen)](https://sourcery.ai)
+[![Telegram](https://img.shields.io/badge/Support%20Group-Telegram-blue)](https://t.me/ionix-support-official)
 ![Stars](https://img.shields.io/github/stars/ion-cell/ioniX)
 ![Forks](https://img.shields.io/github/forks/ion-cell/ionix)
 
-![Repo Size](https://img.shields.io/github/repo-size/ion-cell/ionix)
-[![Sourcery](https://img.shields.io/badge/Sourcery-enabled-brightgreen)](https://sourcery.ai)
 
-[![Telegram](https://img.shields.io/badge/Support%20Group-Telegram-blue)](https://t.me/ionix-support-official)
 
 <br>
 
