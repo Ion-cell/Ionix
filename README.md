@@ -33,7 +33,7 @@
 
 ## How To Deploy 
 
-[Logo](https://heroku.com/deploy?template=https://github.com/ion-cell/ionix)
+[Logo](https://telegra.ph/file/57c4edb389224c9cf9996.png=https://heroku.com/deploy?template=https://github.com/ion-cell/ionix)
 
 ## Disclaimer
 
