@@ -29,7 +29,7 @@
 
 ## click the below photo and deploy
 
-[![Deploy](https://telegra.ph/file/57c4edb389224c9cf9996.png)](https://heroku.com/deploy)
+[![Deploy](https://telegra.ph/file/57c4edb389224c9cf9996.png)](https://heroku.com/deploy?template=https://github.com/ion-cell/ionxix)
 
 ## Disclaimer
 
