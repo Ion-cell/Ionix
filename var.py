@@ -7,4 +7,4 @@ else:
     from local_config import Development as Config
 
 
-Var = Config
+Var = Config 
