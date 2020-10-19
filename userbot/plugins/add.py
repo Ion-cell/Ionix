@@ -1,4 +1,4 @@
-"""Invite the user(s) to the current chat
+"""Invite the user(s) to the current chat 
 Syntax: .invite <User(s)>"""
 
 from telethon import functions
