@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/Ion-cell/IoniX"><img src="https://telegra.ph/file/b26037ba02e7f7fb87706.jpg" alt="Ionix" width=400px></a>
+    <a href="https://github.com/Ion-cell/IoniX"><img src="https://telegra.ph/file/5d6f61b25896be4c3dd6c.jpg" alt="Ionix" width=400px></a>
     <br>
     <br>
 </p>
