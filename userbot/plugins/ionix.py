@@ -47,8 +47,9 @@ pm_caption += "🔵 `Database Status:`  **Functional**\n"
 pm_caption += "🟢 `Join` [Support Channel](t.me/Ionixuserbot)/n"
 pm_caption += "[Deploy✔️](https;//github.com/ion-cell/ionix)"
 
+
 @borg.on(admin_cmd(pattern=r"ionix"))
-@borg.on(sudo_cmd(pattern=r"alive", allow_sudo=True))
+@borg.on(sudo_cmd(pattern=r"ionix", allow_sudo=True))
 async def ionix(ionix):
     await ionix.get_chat()
     """ For .ionix command, check if the bot is running.  """
