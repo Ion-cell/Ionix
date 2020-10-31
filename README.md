@@ -59,7 +59,6 @@
 (Bhagwan) @devil0707
 (phoenix) @ultra_legend_guy
 (Jass Manak) @loUis_xD
-(Typhon) @cyb3rm4f1a
 
 
 
