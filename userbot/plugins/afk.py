@@ -1,4 +1,4 @@
-"""AFK Plugin for @IonixOT
+"""AFK Plugin for @FridayOT
 Syntax: .afk REASON"""
 import asyncio
 import datetime
@@ -18,7 +18,7 @@ last_afk_message = {}
 afk_start = {}
 
 
-@borg.on(events.NewMessage(pattern=r"\.afk?(.*)", outgoing=True))  # pylint:disable=E0602
+@borg.on(events.NewMessage(pattern=r"\.afk ?(.*)", outgoing=True))  # pylint:disable=E0602
 async def _(event):
     if event.fwd_from:
         return
@@ -76,14 +76,14 @@ async def set_not_afk(event):
         try:
             await borg.send_message(  # pylint:disable=E0602
                 Config.PRIVATE_GROUP_ID,  # pylint:disable=E0602
-                "#AfkLogger Master is Back Alive ! No Longer Afk "
+                "#AfkLogger User is Back Alive ! No Longer Afk "
             )
         except Exception as e:  # pylint:disable=C0103,W0703
             await borg.send_message(  # pylint:disable=E0602
                 event.chat_id,
                 "Please set `PRIVATE_GROUP_ID` " + \
                 "for the proper functioning of afk functionality " + \
-                "Please Seek Support in @IonixOT\n\n `{}`".format(str(e)),
+                "Please Seek Support in @FridayOT\n\n `{}`".format(str(e)),
                 reply_to=event.message.id,
                 silent=True
             )
@@ -148,7 +148,7 @@ async def on_afk(event):
         message_to_reply = f"**My Master is Afk**  \nAFKT : `{total_afk_time}`\nReason : {reason}" + \
             f"\n\n~~He Will Reply To You Soon!~~" \
             if reason \
-            else f"**My Master is Afk**\n AFK : `{total_afk_time}` ~~my master  Will Comeback whenever he\she wants no one can say either it can be a few light years or a decade no one can say so until then take a nap ~~"
+            else f"**My Master is Afk**\n AFK : `{total_afk_time}` ~~He Will Comeback Soon~~"
         msg = await event.reply(message_to_reply)
         await asyncio.sleep(5)
         if event.chat_id in last_afk_message:  # pylint:disable=E0602
