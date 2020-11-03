@@ -1,5 +1,5 @@
-"""AFK Plugin for @FridayOT
-Syntax: .afk REASON"""
+
+"""Syntax: .afk REASON"""
 import asyncio
 import datetime
 from datetime import datetime
@@ -72,7 +72,7 @@ async def set_not_afk(event):
         total_afk_time = str((afk_end - afk_start))
     current_message = event.message.message
     if ".afk" not in current_message and "yes" in USER_AFK:  # pylint:disable=E0602
-        shite = await borg.send_message(event.chat_id, "__Pro is Back Alive__\n**No Longer afk.**\n `I Was afk for:``" + total_afk_time + "`")
+        shite = await borg.send_message(event.chat_id, "__boss is Back Alive__\n**No Longer afk.**\n `I Was afk for:``" + total_afk_time + "`")
         try:
             await borg.send_message(  # pylint:disable=E0602
                 Config.PRIVATE_GROUP_ID,  # pylint:disable=E0602
@@ -83,7 +83,7 @@ async def set_not_afk(event):
                 event.chat_id,
                 "Please set `PRIVATE_GROUP_ID` " + \
                 "for the proper functioning of afk functionality " + \
-                "Please Seek Support in @FridayOT\n\n `{}`".format(str(e)),
+                "Please Seek Support in @Ionixuserbot\n\n `{}`".format(str(e)),
                 reply_to=event.message.id,
                 silent=True
             )
