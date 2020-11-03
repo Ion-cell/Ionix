@@ -13,7 +13,7 @@ import time
 async def leave(e):
     starkgang = await edit_or_reply(e, "Bye Kek")
     if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
-        await starkgang.edit("`I am leaving this chat.....!`")
+        await starkgang.edit("`apun jaa rha h.....!`")
         time.sleep(3)
         if '-' in str(e.chat_id):
             await borg(LeaveChannelRequest(e.chat_id))
