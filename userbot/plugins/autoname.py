@@ -8,7 +8,7 @@ from telethon.errors import FloodWaitError
 from uniborg.util import admin_cmd, sudo_cmd, edit_or_reply
 from userbot import ALIVE_NAME
 DEL_TIME_OUT = 60
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "FridayUserbot"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Ionixuserbot"
 
 @borg.on(admin_cmd(pattern="autoname"))  # pylint:disable=E0602
 @borg.on(sudo_cmd(pattern="autoname", allow_sudo=True))
