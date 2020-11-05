@@ -58,7 +58,7 @@
 (Legend) @LegendaryKeys
 (Bhagwan) @devil0707
 (phoenix) @ultra_legend_guy
-(Jass Manak) @loUis_xD
+(𒁂Y=E=O𒁂) @loUis_xD
 
 
 
