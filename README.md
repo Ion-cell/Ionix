@@ -34,24 +34,24 @@
 ## Disclaimer
 
                 
-   ```
+   ```  ⚠️кαηg αт уσυя σωη яιѕк⚠️          
+    уσυя тєℓєgяαм α¢¢συηт мαу gєт вαηηє∂.
+    ι αм ησт яєѕρσηѕιвℓє ƒσя αηу ιмρяσρєя υѕє σƒ тнιѕ вσт
+    тнιѕ вσт ιѕ ιηтєη∂є∂ ƒσя тнє ρυяρσѕє σƒ нανιηg ƒυη ωιтн мємєѕ,
+    αѕ ωєℓℓ αѕ єƒƒι¢ιєηтℓу мαηαgιηg gяσυρѕ.
+    ιт ¢αη нєℓρ уσυ ωιтн мαηαgιηg уσυяѕєℓƒ αѕ ωєℓℓ.
+    уσυ єη∂є∂ υρ ѕραммιηg gяσυρѕ, gєттιηg яєρσятє∂ ℓєƒт αη∂ яιgнт,
+    αη∂ тнєη уσυ єη∂є∂ υρ ιη α ƒιηαℓ вαттℓє ωιтн тєℓєgяαм
+    αη∂ αт тнє єη∂ тнє тєℓєgяαм тєαм
+    ∂єℓєтє∂ уσυя α¢¢συηт?
+    αη∂ αƒтєя тнαт, уσυ ρσιηтє∂ уσυя ƒιηgєяѕ αт υѕ
+    ƒσя gєттιηg уσυя α¢¢συηт ∂єℓєтє∂?
+    ωє ωιℓℓ вє яσℓℓιηg ση тнє ƒℓσσя ℓαυgнιηg αт уσυ.
+    уєѕ! уσυ нєαя∂ ιт яιgнт.
+
 
 /**
-    ⚠️Kang at your own risk⚠️          
-    Your Telegram account may get banned.
-    I am not responsible for any improper use of this bot
-    This bot is intended for the purpose of having fun with memes,
-    as well as efficiently managing groups.
-    It can help you with managing yourself as well.
-    You ended up spamming groups, getting reported left and right,
-    and then you ended up in a Final Battle with Telegram
-    and at the end the Telegram Team
-    deleted your account?
-    And after that, you pointed your fingers at us
-    for getting your account deleted?
-    We will be rolling on the floor laughing at you.
-    Yes! you heard it right.
-
+    
 
 🅲🆁🅴🅳🅸🆃
 (Owner) @paranormal_s
