@@ -29,7 +29,7 @@
 
 ## click the below photo and deploy
 
-[![Deploy](https://telegra.ph/file/57c4edb389224c9cf9996.png)](https://heroku.com/deploy?template=https://github.com/ion-cell/ionix/tree/main)
+[![Deploy](https://telegra.ph/file/ddf34deda771cacf0fee8.jpg)](https://heroku.com/deploy?template=https://github.com/ion-cell/ionix/tree/main)
 
 ## Disclaimer
 
@@ -58,7 +58,7 @@
 (Legend) @LegendaryKeys
 (Bhagwan) @devil0707
 (phoenix) @ultra_legend_guy
-(𒁂Y=E=O𒁂) @loUis_xD
+(𒁂ツᴛᴇ ᴄʜ ᴇʀ乛ᴛᴇᴄʜɴɪᴄᴀʟ𒁂) @technical_xD
 
 
 
