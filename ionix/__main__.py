@@ -2,7 +2,7 @@ from ionix import bot
 from sys import argv
 from telethon import TelegramClient
 from var import Var
-from userbot.utils import load_module
+from ionix.utils import load_module
 from pathlib import Path
 import telethon.utils
 
@@ -42,7 +42,7 @@ for name in files:
         shortname = path1.stem
         load_module(shortname.replace(".py", ""))
 
-import userbot._core
+import ionix._core
 
 print("Yayy! Ionix is officially working now gib party . Enjoy! Bot by @Paranormal_s and team .Do join @ionix_ot")
 
