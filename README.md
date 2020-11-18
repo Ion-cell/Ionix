@@ -27,7 +27,7 @@
 
 <br>
 
-## click the below photo and deploy
+## click the below photo and deploy now !
 
 [![Deploy](https://telegra.ph/file/ddf34deda771cacf0fee8.jpg)](https://heroku.com/deploy?template=https://github.com/ion-cell/ionix/tree/main)
 
