@@ -56,7 +56,7 @@
 🅲🆁🅴🅳🅸🆃
 (Owner) @paranormal_s
 (𒁂ツᴛᴇ ᴄʜ ᴇʀ乛ᴛᴇᴄʜɴɪᴄᴀʟ𒁂) @technical_xD
-(Legend) @LegendaryKeys
+(Legend) @LegendaryKeyss
 (Bhagwan) @devil0707
 (phoenix) @ultra_legend_guy
 
