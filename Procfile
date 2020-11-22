@@ -1,1 +1,1 @@
-ionixuserbot: python -m ionixuserbot
+ionixuserbot: python -m ionix
